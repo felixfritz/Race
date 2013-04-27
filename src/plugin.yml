@@ -1,0 +1,8 @@
+main: me.guenniman.race.main
+author: felixfritz, guenniman
+version: 1.0.0_Alpha
+description: A Plugin for races
+commands:
+  race:
+    description: Start or Stop a race
+    usage: /race start, /race stop, /race create <name>, /race set start, /race set finish, /race set checkpoint <number>
